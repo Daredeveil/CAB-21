@@ -85,8 +85,7 @@ The parameters of descriptive statistics can be classifies into *4 categories* :
 
 a. Frequency: A **frequency** is the number of times a value of the data occurs <br/>
 <br/>
-
-2. Inferential Statistics <br/>
+1. Inferential Statistics <br/>
 Offers methods to study experiments done on small samples of data and chalk out the inferences to the entire population (entire domain). <br/>
 
 
