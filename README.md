@@ -6,7 +6,7 @@
 
 ### Week-1 (CW 25)
 
-1.1. Variable types
+1. Variable types
 	1.a. Integer (x = 100)
 	1.b. Float (x = 10.50)
 	1.c. String (x = ÔHelloÕ or ÒHelloÓ)
