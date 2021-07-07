@@ -115,7 +115,7 @@ iii. **Mode:**
 The value which occures most frequently in a data set. The **mode** is the *number that appears most frequently*. A data set may have *multiple modes*. If it has *two modes*, the data set is called *bimodal*. If all the data values have the same frequency, all the data values are modes.
 <br/>
 
-c. Measures of Variation (Range, Variance, Standard Deviation): [CBA Link!](https://dsft.code-data-ai.com/stats-1/#:~:text=The-,parameters,-Variance%20and%20Standard)<br/>
+c. Measures of Variation (Range, Variance, Standard Deviation): [CAB Link!](https://dsft.code-data-ai.com/stats-1/#:~:text=The-,parameters,-Variance%20and%20Standard)<br/>
 <br/>
 
 References: 
