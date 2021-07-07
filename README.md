@@ -24,10 +24,10 @@
 1. Functions
 	1. Build-in
 	1. User defined
-		1. def name(arguments):/n
-			statement 1
-			statement 2 ....
-			>print/return
+		1. def name(arguments):
+statement 1
+statement 2 ....
+print/return
 
 1. List
 	1. Mutable (element can be changed)
