@@ -6,10 +6,10 @@
 
 >Week-1 (CW 25)
 
-1. Variable types
-	a. Integer (x = 100)
-	b. Float (x = 10.50)
-	c. String (x = ÔHelloÕ or ÒHelloÓ)
+>1. Variable types
+>	a. Integer (x = 100)
+>	b. Float (x = 10.50)
+>	c. String (x = ÔHelloÕ or ÒHelloÓ)
 
 2. Single line comments in python starts with Ô#Õ
 
