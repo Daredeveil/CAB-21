@@ -67,9 +67,9 @@ A module allows you to logically organize your Python code. Grouping related cod
 <br/>
 Library is a collection of modules. You can think of packages as the directories on a file system and modules as files within directories. For example, if you are working with data, numpy, scipy, pandas, etc. are the libraries you must know. <br/>
 <br/>
-For Numpy basics see ![Numpy github link!](https://github.com/Daredeveil/CAB-21/blob/main/numpy_ex.ipynb) <br/>
+For Numpy basics see [Numpy github link!](https://github.com/Daredeveil/CAB-21/blob/main/numpy_ex.ipynb) <br/>
 <br/>
-For Pandas basics and example see ![Pandas github link!](https://github.com/Daredeveil/CAB-21/blob/main/Pandas_basic.ipynb) <br/>
+For Pandas basics and example see [Pandas github link!](https://github.com/Daredeveil/CAB-21/blob/main/Pandas_basic.ipynb) <br/>
 <br/>
 
 #### Basic Statistics
@@ -87,10 +87,28 @@ a. Frequency: A **frequency** is the number of times a value of the data occurs 
 <br/>
 
 b. Measures of Central Tendency (Mean, Median, Mode): <br/>
+[Mean value!] (https://i0.wp.com/dsft.code-data-ai.com/wp-content/uploads/2019/12/1-stat-4.jpg?w=600&ssl=1)
 <br/>
-![Mean value!] (https://i0.wp.com/dsft.code-data-ai.com/wp-content/uploads/2019/12/1-stat-4.jpg?w=600&ssl=1)
+
+More reference: 
+* [Reference-1](https://www.calculators.org/math/mean-median-mode.php)
+* [Reference-2](http://statisticshelper.com/mean-median-mode-calculator#answer)
+* [Reference-3](https://www.youtube.com/watch?v=zjHfAhcU6kE&ab_channel=TheOrganicChemistryTutor)
+* [Reference-4](https://www.youtube.com/watch?v=GaEvFaVa6OU&ab_channel=WendymathsIsacsson)
 <br/>
-A **frequency** is the number of times a value of the data occurs <br/>
+
+i. **Mean 'μ':**
+<br/>
+
+The average of all the data in a set. You find the **mean** by taking the sum of all the data values and dividing that sum by the total number of data values.
+<br/>
+
+ii. **Median:**
+The value in a set which is most close to the middle of a range. The **median** of a data set is found by putting the data set in **Ascending** numerical order and identifying the **middle number**. If there are an *odd number* of data values in the data set, the **median** is a *single number*. If there are an *even number* of data values in the data set, the **median** is the *average of the two middle numbers*.
+<br/>
+
+iii. **Mode:**
+The value which occures most frequently in a data set. The **mode** is the *number that appears most frequently*. A data set may have *multiple modes*. If it has *two modes*, the data set is called *bimodal*. If all the data values have the same frequency, all the data values are modes.
 <br/>
 
 c. Frequency: A **frequency** is the number of times a value of the data occurs <br/>
