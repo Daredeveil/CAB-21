@@ -69,7 +69,7 @@ Library is a collection of modules. You can think of packages as the directories
 <br/>
 For Numpy basics see [Numpy github link!](https://github.com/Daredeveil/CAB-21/blob/main/numpy_ex.ipynb) <br/>
 <br/>
-For Pandas basics and example see [Pandas github link!](https://github.com/Daredeveil/CAB-21/blob/main/Pandas_basic.ipynb) <br/>
+For Pandas basics and example see ![Pandas github link!](https://github.com/Daredeveil/CAB-21/blob/main/Pandas_basic.ipynb) <br/>
 <br/>
 
 #### Basic Statistics
