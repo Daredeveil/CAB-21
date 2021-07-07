@@ -8,7 +8,8 @@ variance = ((12.8-8)^2 + (12.8-12)^2 + (16-12.8)^2 + (24-12.8)^2 + (12.8-4)^2) /
 		 = (23.04 + 0.64 + 10.24 + 125.44 + 77.44) / 4 <br/>
 		 = 59.2
 <br/>
-standard deviation = sqrt(59.2) = 7.69
+standard deviation = sqrt(59.2) = 7.69 <br/>
+<br/>
 <br/>
 
 2. If some *outliers* are introduced to the dataset, what will happen to the Standard Deviation ? 
