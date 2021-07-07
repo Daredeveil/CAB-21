@@ -71,4 +71,17 @@ Library is a collection of modules. You can think of packages as the directories
 For Numpy basics see [Numpy github link!](https://github.com/Daredeveil/CAB-21/blob/main/numpy_ex.ipynb) <br/>
 <br/>
 For Pandas basics and example see [Pandas github link!](https://github.com/Daredeveil/CAB-21/blob/main/Pandas_basic.ipynb) <br/>
+<br/>
+<br/>
+#### Basic Statistics <br/>
+<br/>
+There are two major branches of statistics: <br/>
+<br/>
+1. Descriptive Statistics <br/>
+<br/>
+The parameters of descriptive statistics can be classifies into **4 categories**: <br/>
+<br/>
+1. Inferential Statistics <br/>
+
+
 
