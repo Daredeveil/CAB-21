@@ -138,7 +138,8 @@ The **standard deviation** is the standard or typical difference between each da
 The **standard deviation** is just the *square root* of the *variance*.
 <br/>
 
-d. Measures of Relative Position (Percentile, Quartile): A **frequency** is the number of times a value of the data occurs <br/>
+d. Measures of Relative Position (Percentile, Quartile): It describes how data points fall in relation to one another.<br/>
+[CAB Link!](https://dsft.code-data-ai.com/stats-1/#:~:text=points%20fall%C2%A0in-,relation,-to%C2%A0one%20another)
 <br/>
 <br/>
 2. Inferencial Statistics <br/>
