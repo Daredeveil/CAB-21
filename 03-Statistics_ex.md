@@ -17,98 +17,35 @@ standard deviation = sqrt(59.2) = 7.69 <br/>
 - [ ] Standard Deviation is robust to outliers
 - [X] Standard Deviation will increase with the introduction of outliers
 - [ ] Standard Deviation will decrease with the introduction of outliers
-- [ ] Can not be determined.
-
-
-
-
-## This folder will contain documentation
-
-### Week-1 (CW 25)
-
-1. Variable types
-	1. Integer (x = 100)
-	1. Float (x = 10.50)
-	1. String (x = ‘Hello’ or “Hello”)
-
-1. Single line comments in python starts with '#'
-
-1. Document string comments ''' comment line 1, comment line 2 ....'''
-
-1. type() command is used to see defined variable type e.g int or string or float
-
-1. Numbers and arithmetic (PEMDAS Parentheses, Exponents, Multiplication/Division, Addition/Subtraction)
-
-1. Built-in functions for numbers (min, max, abs ...)
-
-1. Functions
-	1. Build-in
-	1. User defined
-		1. def name(arguments):<br />
-			statement 1<br />
-			statement 2<br />
-			print/return<br />
-
-1. List
-	1. Mutable (element can be changed)
-	1. Ordered (unique index value)
-	1. Heterogeneous (can contain different kind of elements in one list like string, integer, Boolean ...)
-	1. Duplicates (multiple items with same value can be defined)
-	1. Application : value of the item changed frequently
-
-	1. Syntax
-		i. List constructor ( my_list = list((1, ‘Tim’, 2)) )
-		ii. Square brackets [ ] ( my_list = [1, ‘Tim’, 2] )
-
-1. List Functions
-	1. Number of items in a list: Length of a list ‘len(list_name)’
-
-	1. Indexing: Individual element can be access via index (my_list[0])
-	1. Sorting: Alphabetic sorting sorted(list_name)
-	1. sum( ), max( )
- 
-1. List Methods
-	1. list.append() : add item at the end
-	1. list.pop() : remove last element
-	1. list.index() : search specific element
-1. Tuples
-	1. Immutable (element cannot be modified)
-	1. Syntax: round brackets ( )
-		1. E.g. T = (1, 2, 3)
-
-<br />
-
-### Week-2 (CW 26)
+- [ ] Can not be determined <br/>
 <br/>
-What is Module <br/>
-<br/>
-A module allows you to logically organize your Python code. Grouping related code into a module makes the code easier to understand. Therefore, module is similar to function that allow you to perform many actions without writing your own code. <br/>
-<br/>
-Library is a collection of modules. You can think of packages as the directories on a file system and modules as files within directories. For example, if you are working with data, numpy, scipy, pandas, etc. are the libraries you must know. <br/>
-<br/>
-For Numpy basics see [Numpy github link!](https://github.com/Daredeveil/CAB-21/blob/main/numpy_ex.ipynb) <br/>
-<br/>
-For Pandas basics and example see [Pandas github link!](https://github.com/Daredeveil/CAB-21/blob/main/Pandas_basic.ipynb) <br/>
 <br/>
 
-#### Basic Statistics
+3. Suppose the below *positively skewed* distribution has a median of 30, which of the following statement is true? [CAB link!](https://i0.wp.com/dsft.code-data-ai.com/wp-content/uploads/2019/12/1-stat-11.jpg?w=402&ssl=1)
+
+- [ ] Mean is greater than 30
+- [ ] Mean is less than 30
+- [ ] Mode is greater than 30
+- [ ] Mode is less than 30
+- [ ] Both A and D
+- [X] Both B and C<br/>
 <br/>
-There are two major branches of statistics: <br/>
-<br/>
-1. Descriptive Statistics <br/>
-Offers methods to summarise data by transforming raw observations into meaningful information that is easy to interpret and share. <br/>
 <br/>
 
-The parameters of descriptive statistics can be classifies into **4 categories** :
+4. Which value can be the possible value for the *median* of the below distribution? (Hint: You will have to add frequencies) [CAB link!](https://i0.wp.com/dsft.code-data-ai.com/wp-content/uploads/2019/12/1-stat-12.jpg?w=328&ssl=1)
+
+- [ ] 40
+- [X] 26
+- [ ] 16
+- [ ] 50 <br/>
+<br>
+
+Solution: [Solution link for more explanation!](https://math.stackexchange.com/questions/2591946/how-to-find-median-from-a-histogram)<br/>
+On a *histogram*, the *median value* occurs where the whole histogram is *divided into two equal parts*.<br/>
+
+Median = add frequencies / 2 = (36+54+69+82+55+43+25+22+17) / 2
+	   = 201.5 
 <br/>
 
-a. Frequency: A **frequency** is the number of times a value of the data occurs <br/>
-<br/>
-b. Frequency: A **frequency** is the number of times a value of the data occurs <br/>
-<br/>
-c. Frequency: A **frequency** is the number of times a value of the data occurs <br/>
-<br/>
-d. Frequency: A **frequency** is the number of times a value of the data occurs <br/>
-<br/>
-2. Inferencial Statistics <br/>
-Offers methods to study experiments done on small samples of data and chalk out the inferences to the entire population (entire domain). <br/>
+The *median* position 201.5 is *greater* than 36+54+69 = 159 but *less* than 36+54+69+82 = 241, therefore *median* lies between 25-30 having frequency of 82.
+
