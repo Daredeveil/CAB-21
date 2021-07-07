@@ -13,7 +13,7 @@
 
 1. Single line comments in python starts with '#'
 
-1. Document string comments ÔÕÕ comment line 1, comment line 2 É.ÕÕÕ
+1. Document string comments ''' comment line 1, comment line 2 ....'''
 
 4. type() command is used to see defined variable type e.g int or string or float
 
