@@ -60,7 +60,7 @@
 <br />
 <br />
 <br />
-### Week-1 (CW 26)<br />
+### Week-2 (CW 26)<br />
 <br/>
 What is Module <br/>
 <br/>
@@ -73,7 +73,8 @@ For Numpy basics see [Numpy github link!](https://github.com/Daredeveil/CAB-21/b
 For Pandas basics and example see [Pandas github link!](https://github.com/Daredeveil/CAB-21/blob/main/Pandas_basic.ipynb) <br/>
 <br/>
 <br/>
-#### Basic Statistics <br/>
+
+### Basic Statistics
 <br/>
 There are two major branches of statistics: <br/>
 <br/>
