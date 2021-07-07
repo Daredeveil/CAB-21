@@ -30,7 +30,7 @@
 			statement 2<br />
 			print/return<br />
 
-1. List
+1. List 
 	1. Mutable (element can be changed)
 	1. Ordered (unique index value)
 	1. Heterogeneous (can contain different kind of elements in one list like string, integer, Boolean ...)
