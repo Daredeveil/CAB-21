@@ -94,7 +94,7 @@ b. Measures of Central Tendency (Mean, Median, Mode):
 [Mean value!](https://i0.wp.com/dsft.code-data-ai.com/wp-content/uploads/2019/12/1-stat-4.jpg?w=600&ssl=1)
 <br/>
 
-More reference: 
+References: 
 * [Reference-1](https://www.calculators.org/math/mean-median-mode.php)
 * [Reference-2](http://statisticshelper.com/mean-median-mode-calculator#answer)
 * [Reference-3](https://www.youtube.com/watch?v=zjHfAhcU6kE&ab_channel=TheOrganicChemistryTutor)
@@ -115,10 +115,30 @@ iii. **Mode:**
 The value which occures most frequently in a data set. The **mode** is the *number that appears most frequently*. A data set may have *multiple modes*. If it has *two modes*, the data set is called *bimodal*. If all the data values have the same frequency, all the data values are modes.
 <br/>
 
-c. Frequency: A **frequency** is the number of times a value of the data occurs <br/>
+c. Measures of Variation (Range, Variance, Standard Deviation): [CBA Link!](https://dsft.code-data-ai.com/stats-1/#:~:text=The-,parameters,-Variance%20and%20Standard)<br/>
 <br/>
 
-d. Frequency: A **frequency** is the number of times a value of the data occurs <br/>
+References: 
+* [Reference-1](https://statisticsbyjim.com/basics/variability-range-interquartile-variance-standard-deviation/)
+* [Reference-2](https://online.stat.psu.edu/stat500/lesson/1/1.5/1.5.3)
+* [Reference-3](https://stattrek.com/descriptive-statistics/variability.aspx)
+<br/>
+
+i. **Range:**
+<br/>
+The difference between highest and lowest values.
+<br/>
+
+ii. **Variance:**
+**Variance** is the *average squared difference* of the values from the *mean*. The **variance** includes all values in the calculation by comparing each value to the mean.
+<br/>
+
+iii. **Standard Deviation:**
+The **standard deviation** is the standard or typical difference between each data point and the mean. When the values in a dataset are grouped closer together, you have a smaller standard deviation. On the other hand, when the values are spread out more, the standard deviation is larger because the standard distance is greater.
+The **standard deviation** is just the *square root* of the *variance*.
+<br/>
+
+d. Measures of Relative Position (Percentile, Quartile): A **frequency** is the number of times a value of the data occurs <br/>
 <br/>
 <br/>
 2. Inferencial Statistics <br/>
