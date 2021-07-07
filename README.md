@@ -143,7 +143,6 @@ d. Measures of Relative Position (Percentile, Quartile): It describes how data p
 <br/>
 <br/>
 2. Inferencial Statistics <br/>
-Offers methods to study experiments done on small samples of data and chalk out the inferences to the entire population (entire domain).
-<br/>
+Offers methods to study experiments done on small samples of data and chalk out the inferences to the entire population (entire domain).<br/>
 
 [CAB link!](https://dsft.code-data-ai.com/stats-1/#:~:text=in%20overall%20distribution%20%3F-,Inferential%20Statistics,-Inferential%20statistics%20use)
