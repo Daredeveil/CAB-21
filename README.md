@@ -58,8 +58,6 @@
 		1. E.g. T = (1, 2, 3)
 
 <br />
-<br />
-<br />
 
 ### Week-2 (CW 26)
 <br/>
@@ -73,9 +71,8 @@ For Numpy basics see [Numpy github link!](https://github.com/Daredeveil/CAB-21/b
 <br/>
 For Pandas basics and example see [Pandas github link!](https://github.com/Daredeveil/CAB-21/blob/main/Pandas_basic.ipynb) <br/>
 <br/>
-<br/>
 
-### Basic Statistics
+#### Basic Statistics
 <br/>
 There are two major branches of statistics: <br/>
 <br/>
