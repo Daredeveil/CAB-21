@@ -7,13 +7,13 @@
 ### Week-1 (CW 25)
 
 1. Variable types
-	1.a. Integer (x = 100)
-	1.b. Float (x = 10.50)
-	1.c. String (x = ÔHelloÕ or ÒHelloÓ)
+	1. Integer (x = 100)
+	1. Float (x = 10.50)
+	1. String (x = ÔHelloÕ or ÒHelloÓ)
 
-2. Single line comments in python starts with Ô#Õ
+1. Single line comments in python starts with Ô#Õ
 
-3. Document string comments ÔÕÕ comment line 1, comment line 2 É.ÕÕÕ
+1. Document string comments ÔÕÕ comment line 1, comment line 2 É.ÕÕÕ
 
 4. type() command is used to see defined variable type e.g int or string or float
 
