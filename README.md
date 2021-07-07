@@ -77,12 +77,14 @@ For Pandas basics and example see [Pandas github link!](https://github.com/Dared
 There are two major branches of statistics: <br/>
 <br/>
 1. Descriptive Statistics <br/>
+Offers methods to summarise data by transforming raw observations into meaningful information that is easy to interpret and share. <br/>
 <br/>
-offers methods to summarise data by transforming raw observations into meaningful information that is easy to interpret and share. <br/>
 
 The parameters of descriptive statistics can be classifies into **4 categories** :
 <br/>
 1. Inferential Statistics <br/>
+Offers methods to study experiments done on small samples of data and chalk out the inferences to the entire population (entire domain). <br/>
+
 
 
 
