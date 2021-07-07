@@ -25,10 +25,10 @@
 1. Functions
 	1. Build-in
 	1. User defined
-		1. def name(arguments):
-statement 1
-statement 2
-print/return
+		1. def name(arguments):<br />
+			statement 1<br />
+			statement 2<br />
+			print/return<br />
 
 1. List
 	1. Mutable (element can be changed)
