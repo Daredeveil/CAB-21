@@ -56,3 +56,5 @@
 	1. Immutable (element cannot be modified)
 	1. Syntax: round brackets ( )
 		1. E.g. T = (1, 2, 3)
+		2. asa
+		3. sasa
