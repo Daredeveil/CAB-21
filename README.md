@@ -56,5 +56,10 @@
 	1. Immutable (element cannot be modified)
 	1. Syntax: round brackets ( )
 		1. E.g. T = (1, 2, 3)
-		2. asa
-		3. sasa
+
+<br />
+<br />
+<br />
+### Week-1 (CW 26)<br />
+What is Module <br/>
+A module allows you to logically organize your Python code. Grouping related code into a module makes the code easier to understand. Therefore, module is similar to function that allow you to perform many actions without writing your own code.
