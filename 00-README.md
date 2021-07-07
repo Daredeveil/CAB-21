@@ -80,11 +80,16 @@ There are two major branches of statistics: <br/>
 Offers methods to summarise data by transforming raw observations into meaningful information that is easy to interpret and share. <br/>
 <br/>
 
-The parameters of descriptive statistics can be classifies into *4 categories* :
+The parameters of descriptive statistics can be classifies into **4 categories** :
 <br/>
 
 a. Frequency: A **frequency** is the number of times a value of the data occurs <br/>
 <br/>
-
-2. Descriptive Statistics <br/>
+b. Frequency: A **frequency** is the number of times a value of the data occurs <br/>
+<br/>
+c. Frequency: A **frequency** is the number of times a value of the data occurs <br/>
+<br/>
+d. Frequency: A **frequency** is the number of times a value of the data occurs <br/>
+<br/>
+2. Inferencial Statistics <br/>
 Offers methods to study experiments done on small samples of data and chalk out the inferences to the entire population (entire domain). <br/>
