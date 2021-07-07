@@ -79,6 +79,7 @@ There are two major branches of statistics: <br/>
 1. Descriptive Statistics <br/>
 <br/>
 The parameters of descriptive statistics can be classifies into 
+
 **4 categories**
 :
 <br/>
