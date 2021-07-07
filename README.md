@@ -11,7 +11,7 @@
 	1. Float (x = 10.50)
 	1. String (x = ÔHelloÕ or ÒHelloÓ)
 
-1. Single line comments in python starts with Ô#Õ
+1. Single line comments in python starts with '#'
 
 1. Document string comments ÔÕÕ comment line 1, comment line 2 É.ÕÕÕ
 
