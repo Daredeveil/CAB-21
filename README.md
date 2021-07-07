@@ -9,7 +9,7 @@
 1. Variable types
 	1. Integer (x = 100)
 	1. Float (x = 10.50)
-	1. String (x = ÔHelloÕ or ÒHelloÓ)
+	1. String (x = ‘Hello’ or “Hello”)
 
 1. Single line comments in python starts with '#'
 
@@ -17,9 +17,9 @@
 
 4. type() command is used to see defined variable type e.g int or string or float
 
-5. Numbers and arithmetic (PEMDAS Parentheses,ÊExponents,ÊMultiplication/Division,ÊAddition/Subtraction)
+5. Numbers and arithmetic (PEMDAS Parentheses, Exponents, Multiplication/Division, Addition/Subtraction)
 
-6. Built-in functions for numbers (min, max, abs É)
+6. Built-in functions for numbers (min, max, abs ...)
 
 7. Functions
 	a. Build-in
@@ -32,16 +32,16 @@
 8. List
 	a. Mutable (element can be changed)
 	b. Ordered (unique index value)
-	c. Heterogeneous (can contain different kind of elements in one list like string, integer, 	Boolean É)
+	c. Heterogeneous (can contain different kind of elements in one list like string, integer, Boolean ...)
 	d. Duplicates (multiple items with same value can be defined)
 	e. Application : value of the item changed frequently
 
 	f. Syntax
-		i. List constructor ( my_list = list((1, ÔTimÕ, 2)) )
-		ii. Square brackets [ ] ( my_list = [1, ÔTimÕ, 2] )
+		i. List constructor ( my_list = list((1, ‘Tim’, 2)) )
+		ii. Square brackets [ ] ( my_list = [1, ‘Tim’, 2] )
 
 9. List Functions
-	a. Number of items in a list: Length of a list Ôlen(list_name)Õ
+	a. Number of items in a list: Length of a list ‘len(list_name)’
 
 	b. Indexing: Individual element can be access via index (my_list[0])
 	c. Sorting: Alphabetic sorting sorted(list_name)
