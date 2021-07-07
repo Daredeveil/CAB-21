@@ -1,10 +1,10 @@
 # CAB-21
 
-<h1>DATA SCIENCE course at Code Academy Berlin<h1>
+#DATA SCIENCE course at Code Academy Berlin<h1>
 
-<h2>This folder will contain documentation<h2>
+##This folder will contain documentation<h2>
 
->Week-1 (CW 25)
+###Week-1 (CW 25)
 
 1.1. Variable types
 	1.a. Integer (x = 100)
