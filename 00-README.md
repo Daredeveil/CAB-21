@@ -67,7 +67,7 @@ A module allows you to logically organize your Python code. Grouping related cod
 <br/>
 Library is a collection of modules. You can think of packages as the directories on a file system and modules as files within directories. For example, if you are working with data, numpy, scipy, pandas, etc. are the libraries you must know. <br/>
 <br/>
-For Numpy basics see [Numpy github link!](https://github.com/Daredeveil/CAB-21/blob/main/numpy_ex.ipynb) <br/>
+For Numpy basics see ![Numpy github link!](https://github.com/Daredeveil/CAB-21/blob/main/numpy_ex.ipynb) <br/>
 <br/>
 For Pandas basics and example see ![Pandas github link!](https://github.com/Daredeveil/CAB-21/blob/main/Pandas_basic.ipynb) <br/>
 <br/>
