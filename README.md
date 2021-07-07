@@ -25,9 +25,9 @@
 	1. Build-in
 	1. User defined
 		1. def name(arguments):
-			statement 1
-			statement 2 ....
-			print/return
+			>statement 1
+			>statement 2 ....
+			>print/return
 
 1. List
 	1. Mutable (element can be changed)
