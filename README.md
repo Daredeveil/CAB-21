@@ -78,7 +78,7 @@ There are two major branches of statistics: <br/>
 <br/>
 1. Descriptive Statistics <br/>
 <br/>
-_The parameters of descriptive statistics can be classifies into ** 4 categories ** :_
+The parameters of descriptive statistics can be classifies into ** 4 categories ** :
 <br/>
 1. Inferential Statistics <br/>
 
