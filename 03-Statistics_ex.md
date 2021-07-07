@@ -1,7 +1,10 @@
+### Now is time to solve some interesting problems.
 
-# CAB-21
+1. Given, there are 5 numbers in the data set: (8, 12, 16, 24, 4). What will be the sum of deviations of individual data points from their mean? <br/>
+<br/>
+Mean = (8+12+16+24+4)/5
 
-# DATA SCIENCE course at Code Academy Berlin
+
 
 ## This folder will contain documentation
 

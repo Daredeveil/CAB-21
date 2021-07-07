@@ -85,11 +85,17 @@ The parameters of descriptive statistics can be classifies into **4 categories**
 
 a. Frequency: A **frequency** is the number of times a value of the data occurs <br/>
 <br/>
-b. Frequency: A **frequency** is the number of times a value of the data occurs <br/>
+
+b. Measures of Central Tendency (Mean, Median, Mode): <br/>
+[Mean value!] (https://i0.wp.com/dsft.code-data-ai.com/wp-content/uploads/2019/12/1-stat-4.jpg?w=600&ssl=1)
+A **frequency** is the number of times a value of the data occurs <br/>
 <br/>
+
 c. Frequency: A **frequency** is the number of times a value of the data occurs <br/>
 <br/>
+
 d. Frequency: A **frequency** is the number of times a value of the data occurs <br/>
+<br/>
 <br/>
 2. Inferencial Statistics <br/>
 Offers methods to study experiments done on small samples of data and chalk out the inferences to the entire population (entire domain). <br/>
