@@ -1,8 +1,6 @@
 # CAB-21
 
-<h1>
-	DATA SCIENCE course at Code Academy Berlin
-	<h1>
+<h1>DATA SCIENCE course at Code Academy Berlin
 
 This folder will contain documentation
 
