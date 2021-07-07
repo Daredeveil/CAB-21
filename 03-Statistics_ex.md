@@ -1,8 +1,23 @@
 ### Now is time to solve some interesting problems.
 
-1. Given, there are 5 numbers in the data set: (8, 12, 16, 24, 4). What will be the sum of deviations of individual data points from their mean? <br/>
+1. Given, there are 5 numbers in the data set: (8, 12, 16, 24, 4). What will be the sum of *deviations* of individual data points from their mean? <br/>
 <br/>
-Mean = (8+12+16+24+4)/5
+Mean = (8+12+16+24+4)/5 = 12.8 <br/>
+<br/>
+variance = ((12.8-8)^2 + (12.8-12)^2 + (16-12.8)^2 + (24-12.8)^2 + (12.8-4)^2) / (5-1)<br/>
+		 = (23.04 + 0.64 + 10.24 + 125.44 + 77.44) / 4 <br/>
+		 = 59.2
+<br/>
+standard deviation = sqrt(59.2) = 7.69
+<br/>
+
+2. If some *outliers* are introduced to the dataset, what will happen to the Standard Deviation ? 
+ 
+- [ ] Standard Deviation is robust to outliers
+- [X] Standard Deviation will increase with the introduction of outliers
+- [ ] Standard Deviation will decrease with the introduction of outliers
+- [ ] Can not be determined.
+
 
 
 
