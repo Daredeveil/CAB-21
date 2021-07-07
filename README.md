@@ -1,4 +1,4 @@
-This is simple text
+
 # CAB-21
 
 # DATA SCIENCE course at Code Academy Berlin
@@ -27,7 +27,7 @@ This is simple text
 	1. User defined
 		1. def name(arguments):
 statement 1
-statement 2 ....
+statement 2
 print/return
 
 1. List
