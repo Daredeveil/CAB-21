@@ -67,9 +67,13 @@ A module allows you to logically organize your Python code. Grouping related cod
 <br/>
 Library is a collection of modules. You can think of packages as the directories on a file system and modules as files within directories. For example, if you are working with data, numpy, scipy, pandas, etc. are the libraries you must know. <br/>
 <br/>
-For Numpy basics see [Numpy github link!](https://github.com/Daredeveil/CAB-21/blob/main/numpy_ex.ipynb) <br/>
+For Numpy basics see 
+
+[Numpy github link!](https://github.com/Daredeveil/CAB-21/blob/main/numpy_ex.ipynb) <br/>
 <br/>
-For Pandas basics and example see [Pandas github link!](https://github.com/Daredeveil/CAB-21/blob/main/Pandas_basic.ipynb) <br/>
+For Pandas basics and example see 
+
+[Pandas github link!](https://github.com/Daredeveil/CAB-21/blob/main/Pandas_basic.ipynb) <br/>
 <br/>
 
 #### Basic Statistics
@@ -86,8 +90,8 @@ The parameters of descriptive statistics can be classifies into **4 categories**
 a. Frequency: A **frequency** is the number of times a value of the data occurs <br/>
 <br/>
 
-b. Measures of Central Tendency (Mean, Median, Mode): <br/>
-[Mean value!] (https://i0.wp.com/dsft.code-data-ai.com/wp-content/uploads/2019/12/1-stat-4.jpg?w=600&ssl=1)
+b. Measures of Central Tendency (Mean, Median, Mode):
+[Mean value!](https://i0.wp.com/dsft.code-data-ai.com/wp-content/uploads/2019/12/1-stat-4.jpg?w=600&ssl=1)
 <br/>
 
 More reference: 
