@@ -4,7 +4,7 @@
 
 <h2>This folder will contain documentation<h2>
 
-Week-1 (CW 25)
+>Week-1 (CW 25)
 
 1. Variable types
 	a. Integer (x = 100)
