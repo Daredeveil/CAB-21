@@ -81,10 +81,10 @@ Calculate the *standard deviation* of the salaries of the 10 employees.
 
 Salary | Employee count
 ------ | -------------
-  -25   |       3
-  40   |       2
-  35   |       1
-  50   |       4
+   25  |         3
+   40  |         2
+   35  |         1
+   50  |         4
 
 Mean = (3*25 + 2*40 + 1*35 + 4*50)/10 = (75+80+35+200)/10 = 39 <br/>
 <br/>
