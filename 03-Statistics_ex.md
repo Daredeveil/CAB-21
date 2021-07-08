@@ -57,7 +57,7 @@ Solution: *positively skewed distribution*<br/>
 <br/>
 
 6. What would you consider to be the most appropriate *measure of the center* for this data?
-Solution: (11+24+29+9+5+4+6+3+3+3+2+1+1+1+1+2)/2 = 52.5 approx <br/>
+Solution: Median = (11+24+29+9+5+4+6+3+3+3+2+1+1+1+1+2)/2 = 52.5 approx <br/>
 <br/>
 <br/>
 
