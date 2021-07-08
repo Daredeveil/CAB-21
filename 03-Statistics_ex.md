@@ -1,4 +1,4 @@
-### Now is time to solve some interesting problems.
+### Now is the time to solve some interesting problems.
 
 1. Given, there are 5 numbers in the data set: (8, 12, 16, 24, 4). What will be the sum of *deviations* of individual data points from their mean? <br/>
 <br/>
