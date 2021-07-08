@@ -88,7 +88,7 @@ Salary | Employee count
 
 Mean = (3*25 + 2*40 + 1*35 + 4*50)/10 = (75+80+35+200)/10 = 39 <br/>
 <br/>
-Standard Deviation = sqrt((∑frequency⋅(salary−mean)^2)/(employee count))<br/>
+Standard Deviation = sqrt((∑frequency*(salary−mean)^2)/(employee count))<br/>
 <br/>
 				   = sqrt((3*(25-39)^2 + 2*(40-39)^2 + 1*(35-39)^2 + 4*(50-39)^2) / 10)<br/>
 <br/>
@@ -97,3 +97,25 @@ Standard Deviation = sqrt((∑frequency⋅(salary−mean)^2)/(employee count))<b
 				   = sqrt((588 + 2 + 16 + 484) / 10)<br/>
 <br/>
 				   = 10.44<br/>
+<br/>
+<br/>
+
+10.  Which of the following random variables is *discrete*?
+
+- [ ] the length of time a battery lasts
+- [X] the number of pens purchased by a student in a year
+- [ ] the percentage of cows in a cattle firm that have been vaccinated
+- [ ] the distance between a pair of towns<br/>
+<br/>
+<br/>
+
+11. Which of the below normal distributions will have the greatest spread?
+
+
+- [ ] mu=5,  sigma =1.5
+- [ ] mu=10, sigma =1.0
+- [X] mu=5,  sigma =1.65
+- [ ] mu=8,  sigma =1.2
+- [ ] mu=10, sigma =1.6<br/>
+<br/>
+<br/>
