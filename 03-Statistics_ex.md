@@ -21,7 +21,7 @@ standard deviation = sqrt(59.2) = 7.69 <br/>
 <br/>
 <br/>
 
-3. Suppose the below *positively skewed* distribution has a median of 30, which of the following statement is true? [CAB link!](https://i0.wp.com/dsft.code-data-ai.com/wp-content/uploads/2019/12/1-stat-11.jpg?w=402&ssl=1)
+3. Suppose the below *positively skewed distribution* has a median of 30, which of the following statement is true? [CAB link!](https://i0.wp.com/dsft.code-data-ai.com/wp-content/uploads/2019/12/1-stat-11.jpg?w=402&ssl=1)
 
 - [ ] Mean is greater than 30
 - [ ] Mean is less than 30
@@ -47,5 +47,53 @@ Median = add frequencies / 2 = (36+54+69+82+55+43+25+22+17) / 2
 	   = 201.5 
 <br/>
 
-The *median* position 201.5 is *greater* than 36+54+69 = 159 but *less* than 36+54+69+82 = 241, therefore *median* lies between 25-30 having frequency of 82.
+The *median* position 201.5 is *greater* than 36+54+69 = 159 but *less* than 36+54+69+82 = 241, therefore *median* lies between 25-30 having frequency of 82.<br/>
+<br/>
+<br/>
 
+5. What is the *shape* of the distribution ? [CAB positive skew image!](https://i1.wp.com/dsft.code-data-ai.com/wp-content/uploads/2019/12/1-stat-13.jpg?w=544&ssl=1)<br/>
+Solution: *positively skewed distribution*<br/>
+<br/>
+<br/>
+
+6. What would you consider to be the most appropriate *measure of the center* for this data?
+Solution: (11+24+29+9+5+4+6+3+3+3+2+1+1+1+1+2)/2 = 52.5 approx <br/>
+<br/>
+<br/>
+
+7. If Y axis represents *the number of individuals* and X axis *salary of the individual in thousands*. How many individuals have salary less than 10 thousands ?<br/>
+Solution: Approx 35 <br/>
+<br/>
+<br/>
+
+8. We have a set of positive numbers. If a single value of the set is altered what must change ? <br/>
+
+- [ ] Mean
+- [ ] Median
+- [ ] Mode
+- [X] All of these<br/>
+<br/>
+<br/>
+
+9. The chart shows hourly consultancy rate of 10 people. 
+
+Calculate the *standard deviation* of the salaries of the 10 employees.
+
+Salary | Employee count
+------ | -------------
+  25   |       3
+  40   |       2
+  35   |       1
+  50   |       4
+
+Mean = (3*25 + 2*40 + 1*35 + 4*50)/10 = (75+80+35+200)/10 = 39 <br/>
+<br/>
+Standard Deviation = sqrt((∑frequency⋅(salary−mean)^2)/(employee count))<br/>
+<br/>
+				   = sqrt((3*(25-39)^2 + 2*(40-39)^2 + 1*(35-39)^2 + 4*(50-39)^2) / 10)<br/>
+<br/>
+				   = sqrt((3*(14)^2 + 2*(1)^2 + 1*(4)^2 + 4*(11)^2) / 10)<br/>
+<br/>
+				   = sqrt((588 + 2 + 16 + 484) / 10)<br/>
+<br/>
+				   = 10.44<br/>
