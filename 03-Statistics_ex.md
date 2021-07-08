@@ -81,7 +81,7 @@ Calculate the *standard deviation* of the salaries of the 10 employees.
 
 Salary | Employee count
 ------ | -------------
-  25   |       3
+  -25   |       3
   40   |       2
   35   |       1
   50   |       4
